@@ -1,9 +1,0 @@
-Package: com.skyglow.tlsfix
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Afe
-Filename: debs/com.skyglow.tlsfix_1.1_iphoneos-arm.deb
-Size: 1500
-MD5sum: 1234567890abcdef1234567890abcdef
-Section: Tweaks
-Description: Corrige os certificados TLS/SSL no iOS 5 legado.
